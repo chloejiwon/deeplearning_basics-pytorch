@@ -10,6 +10,8 @@ Let's learn amazing deep learning basics with pytorch
 
 * 20/04/29 **07 Wide and Deep** done
 
+* 20/04/30 **08 DataLoader** done
+
 
 # reference 
 This repository is based on the lectures below
