@@ -12,8 +12,10 @@ Let's learn amazing deep learning basics with pytorch
 
 * 20/04/30 **08 DataLoader** done
 
+* 20/05/02 **09 SoftMax** done
 
 # reference 
 This repository is based on the lectures below
 * [PyTorch Zero To All Lecture by Sung Kim](https://www.youtube.com/watch?v=zN49HdDxHi8)
+
 
