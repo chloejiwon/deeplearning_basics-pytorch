@@ -5,7 +5,7 @@ Let's learn amazing deep learning basics with pytorch
 📌update README when I study something new<br>
 📌upload notebook with deeplearning code and explanation
 
-<br><br>
+<br>
 # 📅 learning calendar
 
 * 20/04/29 **07 Wide and Deep** done
@@ -16,6 +16,9 @@ Let's learn amazing deep learning basics with pytorch
 
 * 20/05/13 **10 CNN** done 
 <br> 📌Need to study more
+
+* 20/05/30 **11 Advanced CNN** done
+
 
 # reference 
 This repository is based on the lectures below
