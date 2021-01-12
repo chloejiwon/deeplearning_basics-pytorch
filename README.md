@@ -56,5 +56,5 @@ Based on Doit! Deeplearning book
 # 📅 learning calendar
 
 * 21/01/12 **03. Linear Regression** done
-
+* 21/01/12 **04. Logistic Regression** done
 
